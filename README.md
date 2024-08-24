@@ -1,6 +1,15 @@
-<h1 align=center>
-	<b>Push_swap</b>
+<h1 align="center">
+    <b>push_swap</b>
+    <br>
+    <img src="https://github.com/pix3l-p33p3r/Minitalk/blob/main/minitalkm.png" alt="fract'ol">
 </h1>
+<div align=center>
+<h2>
+	Final score
+</h2>
+<img src=https://github.com/pix3l-p33p3r/fract-ol/blob/main/SRC_IMG/score_125.png />
+<h4>Completed + Bonus</h4>
+</div>
 
 <h4 align=center>
 	Because Swap_push isn’t as natural.
