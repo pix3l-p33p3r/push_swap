@@ -1,13 +1,13 @@
 <h1 align="center">
     <b>push_swap</b>
     <br>
-    <img src="https://github.com/pix3l-p33p3r/Minitalk/blob/main/minitalkm.png" alt="fract'ol">
+    <img src="https://github.com/Pix31P33p3r/push_swap/blob/main/push_swapm.png" alt="fract'ol">
 </h1>
 <div align=center>
 <h2>
 	Final score
 </h2>
-<img src=https://github.com/pix3l-p33p3r/fract-ol/blob/main/SRC_IMG/score_125.png />
+<img src=https://github.com/pix3l-p33p3r/push_swap/blob/main/score_100.png />
 <h4>Completed + Bonus</h4>
 </div>
 
@@ -19,11 +19,6 @@
 	In this repo you will find all the codes developed during the <i>push_swap</i> project, both <b>mandatory</b>'s part and <b>bonus</b>.
 </p>
 
----
-
-<div align=center>
-<img src=https://github.com/Pix31P33p3r/push_swap/blob/main/push_swapm.png/>
-</div>
 
 ---
 
